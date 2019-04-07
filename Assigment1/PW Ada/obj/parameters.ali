@@ -1,0 +1,33 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FIXED_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U parameters%s		parameters.ads		5b30ac9e NE OO PK
+
+D parameters.ads	20190331112330 5b30ac9e parameters%s
+D system.ads		20180524051738 32a08138 system%s
+X 1 parameters.ads
+1K9*Parameters 26l5 26e15
+3i4*randomizationOfIntervals{integer}
+4o4*clientInterval{duration}
+5o4*bossInterval{duration}
+6o4*workerInterval{duration}
+7o4*printWarehouseInterval{duration}
+8i4*warehouseMaxLoad{integer}
+9i4*assigmentsMaxSize{integer}
+10i4*workersNumber{integer}
+11i4*clientsNumber{integer}
+13b4*printInfoResourceInUse{boolean}
+14b4*printClient{boolean}
+15b4*printWorker{boolean}
+16b4*printBoss{boolean}
+17b4*printWarehouse{boolean}
+18b4*silentMode{boolean}
+21I12*Random_Range{integer}
+

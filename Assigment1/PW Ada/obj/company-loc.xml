@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\dtend\Desktop\PW\245683\PW Ada\Ada\company.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\dtend\Desktop\PW\245683\PW Ada\company.gpr</vfs_project>
+      <vfs_file>C:\Users\dtend\Desktop\PW\245683\PW Ada\src\company.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
